@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\levlo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\levlo\\.nuget\\packages"
+    ]
+  }
+}

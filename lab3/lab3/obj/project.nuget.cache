@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "jm8X7U3XYbQ6Ax7f4Q89fGSSRpq+WQrxwJ7g0bGfYT71HAwHzLCw8CLZ0srRQuVcfY1KD3blFl9I4EnZy3SdPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\levlo\\OneDrive\\Рабочий стол\\Рутина\\учеба\\3 курс\\6 семестр\\Межплатформенное программирование\\lab3\\lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\levlo\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\levlo\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\levlo\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\levlo\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\levlo\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\levlo\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\levlo\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\levlo\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\levlo\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
